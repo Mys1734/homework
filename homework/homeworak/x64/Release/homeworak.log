@@ -1,0 +1,12 @@
+﻿  homework.c
+D:\项目\homeworak\homeworak\homework.c(65,17): error C2146: 语法错误: 缺少“)”(在标识符“n”的前面)
+D:\项目\homeworak\homeworak\homework.c(65,17): error C2061: 语法错误: 标识符“n”
+D:\项目\homeworak\homeworak\homework.c(65,17): error C2059: 语法错误:“;”
+D:\项目\homeworak\homeworak\homework.c(65,18): error C2059: 语法错误:“)”
+D:\项目\homeworak\homeworak\homework.c(66,1): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+D:\项目\homeworak\homeworak\homework.c(71,1): error C2059: 语法错误:“}”
+D:\项目\homeworak\homeworak\homework.c(82,6): error C2146: 语法错误: 缺少“;”(在标识符“s”的前面)
+D:\项目\homeworak\homeworak\homework.c(82,8): error C2065: “s”: 未声明的标识符
+D:\项目\homeworak\homeworak\homework.c(82,10): error C2059: 语法错误:“{”
+D:\项目\homeworak\homeworak\homework.c(83,2): warning C4013: “Print1”未定义；假设外部返回 int
+D:\项目\homeworak\homeworak\homework.c(83,10): error C2065: “s”: 未声明的标识符
